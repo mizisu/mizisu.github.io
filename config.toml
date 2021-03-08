@@ -1,4 +1,22 @@
 baseURL = "https://mizisu.github.io/"
-languageCode = "ko-KR"
+languageCode = "ko-kr"
 title = "Heecheol Kim Blog"
+description = ""
 theme = "m10c"
+
+[params]
+  author = "Heecheol Kim"
+  description = "."
+  menu_item_separator = ""
+
+
+[[params.social]]
+  icon = "github"
+  name = "My github"
+  url = "https://github.com/mizisu/"
+
+[params.style]
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#f5f5f5"
+  primaryColor = "#ffffff"
