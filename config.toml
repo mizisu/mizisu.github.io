@@ -1,18 +1,17 @@
 baseURL = "https://mizisu.github.io/"
 languageCode = "ko-kr"
 title = "Heecheol Kim Blog"
-description = ""
 theme = "m10c"
 
 [params]
   author = "Heecheol Kim"
-  description = "."
+  description = "가만히 있는거보다 글 좀 써블로그"
   menu_item_separator = ""
 
 
 [[params.social]]
   icon = "github"
-  name = "My github"
+  name = "Github"
   url = "https://github.com/mizisu/"
 
 [params.style]
